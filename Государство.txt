@@ -1,0 +1,4 @@
+Belarus Minsk 10000000 207600
+Russia Moscow 149000000 3000000
+Poland Warsawa 2000000 300000
+Luxembourg Luxembourg 922900 20000

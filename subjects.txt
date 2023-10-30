@@ -1,0 +1,3 @@
+IT: 100 (l) 50 (lab) 20(pr)
+Physics: 30 (l) 10 (lab)
+PE: 30 (lab)
